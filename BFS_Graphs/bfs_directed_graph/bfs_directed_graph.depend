@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1531908960 source:/home/namrita/Documents/TORC-C++/BFS_Graphs/bfs_directed_graph/main.cpp
+	<iostream>
+	<list>
+
