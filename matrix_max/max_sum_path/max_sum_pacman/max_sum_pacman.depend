@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531934221 source:/home/namrita/Documents/TORC-C++/matrix_max/max_sum_path/max_sum_pacman/main.cpp
+	<iostream>
+	<vector>
+	<limits>
+
