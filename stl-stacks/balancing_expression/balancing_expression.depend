@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531568924 source:/home/namrita/Documents/TORC-C++/stl-stacks/balancing_expression/main.cpp
+	<iostream>
+	<stack>
+	<string>
+

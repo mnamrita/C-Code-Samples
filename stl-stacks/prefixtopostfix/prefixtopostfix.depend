@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531573670 source:/home/namrita/Documents/TORC-C++/stl-stacks/prefixtopostfix/main.cpp
+	<iostream>
+	<stack>
+	<string>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1531563244 source:/home/namrita/Documents/TORC-C++/Vectors/rotate_matrix_by_90/main.cpp
+	<iostream>
+	<vector>
+
